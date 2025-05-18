@@ -11,7 +11,6 @@ import {
   type TabKey,
   type TimelineSidebarProps,
 } from "@/types";
-import { LuPanelRightClose, LuPanelRightOpen } from "react-icons/lu";
 import { FilterChips, RankChips } from "./TimelineSidebarChips";
 
 export const PHASE_CONFIG: PhaseConfig[] = [
